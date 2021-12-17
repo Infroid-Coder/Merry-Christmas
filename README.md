@@ -28,18 +28,18 @@ Well, I have used <b>HTML</b>, <b>CSS</b> and a bit of <b>JavaScript</b> to make
 <a href="https://github.com/Infroid-Coder/Merry-Christmas#javascript"><img src="https://shields.io/badge/📗-JavaScript-green"></a>
 </div>
 
-# HTML
+## HTML
 HTML is the main root of this website.
 <br>But according to <b>Github</b>, 
 I have used it secondly the most😅.<br>In percentage, <b>30.4%</b>. Anyway that's all about HTML.<br>Let's move on to CSS.
 
-# CSS
+## CSS
 Well as I said in the <b>HTML</b> section, it's the secondly most used one.
 <br>And CSS is the mostly used one. Probably it should be. Because in this website, I used CSS much more than HTML.
 <br>Because I just had to attach some images and add the text in HTML. And I had style all of it with CSS. 
 <br>So probably yes, CSS must be the used the mostly.
 
-# JavaScript
+## JavaScript
 About JavaScript, I used it only for 1 function.
 <br>The function that should be executed once the play button is clicked.
 <br>That's all I have done with JS.
