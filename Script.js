@@ -6,12 +6,13 @@ function SantaDisplay() {
     play.style.display = "none";
     santa.style.animationName = "santa";
     santa.style.animationDuration = "1s";
-    mc.style.animationName = "mcanime";
+    mc.style.animationName = "merrychrist";
     mc.style.animationDuration = "1s";
     mc.style.display = "inline-block";
     document.body.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.4) , rgba(0, 0, 0, 0.4)) , url('Snowing.gif')";
+    document.getElementById("musicspn").innerHTML = "<audio src='BG Music.mp3' autoplay>"
     
-    setTimeout(() => {
+    setTimeout(function() {
         santa.style.display = "none";
     }, 1000);
     // setTimeout(function() {
