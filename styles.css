@@ -3,10 +3,19 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    width: 99%;
 }
 @font-face {
     font-family: MCF;
     src: url("Fonts/MerryChristmasFlake.ttf");
+}
+@font-face {
+    font-family: EO2B;
+    src: url("Fonts/Exo2-Black.ttf");
+}
+@font-face {
+    font-family: NG;
+    src: url("Fonts/Neuzeit\ Grotesk\ Cond\ W01\ Black.otf");
 }
 #play{
     width: 100px;
@@ -49,6 +58,15 @@ body{
 #mc-align{
     text-align: center;
 }
+#musicurl{
+    color:white;
+    text-orientation: upright;
+    writing-mode: vertical-rl;
+    font-family: NG;
+    position: fixed;
+    left: 5px;
+    top: 50%;
+}
 
 @keyframes santa{
     0%{
@@ -60,7 +78,7 @@ body{
         opacity: 0%;
     }
 }
-@keyframes mcanime {
+@keyframes merrychrist {
     0%{
         font-size: 10px;
     }
